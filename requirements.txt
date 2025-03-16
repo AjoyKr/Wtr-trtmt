@@ -1,0 +1,7 @@
+openai
+crewai
+streamlit
+pandas
+requests
+beautifulsoup4
+
